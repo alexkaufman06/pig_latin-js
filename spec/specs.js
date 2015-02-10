@@ -7,13 +7,3 @@ describe('pigLatin', function() {
     expect(pigLatin("toy")).to.equal("oytay")
   });
 });
-
-// var wordsVowels = []
-// letters.each() |letter|
-//   vowels.indexOf(letter) !== -1
-//     wordsVowels.push(letter)
-//   end
-// end
-// word.slice(word.indexOf(wordsVowels[0])).concat(word[0]).concat("ay")
-
-// return word.slice(1) + word.slice(0,1) + "ay"

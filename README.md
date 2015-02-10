@@ -1,7 +1,7 @@
 Pig Latin Translator
 ======================
 
-Methods allow the user to translate English into Pig Latin.
+Methods allow the user to translate English into Pig Latin. Under Construction.
 
 Known Bugs
 ----------
